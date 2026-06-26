@@ -33,7 +33,6 @@ export type {
   ClaimableBalanceClaimant,
 } from "./types";
 
-// ── Utils (public) ─────────────────────────────────────────────────────────
 export {
   isValidStellarAddress,
   shortenAddress,
